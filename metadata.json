@@ -1,0 +1,5 @@
+{
+  "name": "Nova Archive",
+  "description": "A centralized Document Management System (DMS) for GE Vernova, integrating with Box for file storage and managing complex engineering workflows.",
+  "requestFramePermissions": []
+}
